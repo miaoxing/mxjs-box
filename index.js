@@ -15,7 +15,7 @@ const base = props => css(props.__css)(props.theme)
 const variant = ({theme, variant, tx = 'variants'}) => css(get(theme, tx + '.' + variant, get(theme, variant)))(theme)
 
 const invalidProps = ['as'];
-const regex = new RegExp("^(" + invalidProps.join('|') + ")$");
+const regex = new RegExp('^(' + invalidProps.join('|') + ')$');
 
 export const Box = styled('div', {
   shouldForwardProp: props => !regex.test(props),
