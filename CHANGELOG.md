@@ -3,4 +3,4 @@
 
 ### Features
 
-* 增加 box，同rebas，但是允许传值到子组件 ([](https://github.com/miaoxing/mxjs-box/commit/))
+* 增加 box，同 `rebass`，但是允许传值到子组件 ([](https://github.com/miaoxing/mxjs-box/commit/))
