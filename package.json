@@ -7,5 +7,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@emotion/styled": "^11.1.5",
+    "@styled-system/css": "^5.1.5",
+    "@styled-system/should-forward-prop": "^5.1.5",
+    "styled-system": "^5.1.5"
   }
 }
