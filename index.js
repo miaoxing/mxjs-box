@@ -1,1 +1,7 @@
-export {Box, Flex, Text, Heading, Link, Button, Image} from '@chakra-ui/react';
+import {Box} from '@fower/react';
+
+export {Box};
+
+export const Image = (props) => {
+  return <Box as="img" {...props}/>;
+};

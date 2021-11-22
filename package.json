@@ -9,10 +9,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@chakra-ui/react": "^1.6.8",
-    "@emotion/react": "^11.1.5",
-    "@emotion/styled": "^11.1.5",
-    "framer-motion": "^4.1.2"
+    "@fower/react": "^1.55.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.0.0",

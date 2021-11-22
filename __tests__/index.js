@@ -1,5 +1,5 @@
 import {Box} from '..';
-import {Box as OriginalBox} from '@chakra-ui/react';
+import {Box as OriginalBox} from '@fower/react';
 
 describe('Box', () => {
   test('Box', () => {
