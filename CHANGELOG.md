@@ -1,3 +1,33 @@
+# [0.3.0](https://github.com/miaoxing/mxjs-box/compare/v0.2.3...v0.3.0) (2022-01-12)
+
+
+### Bug Fixes
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.59.0` ([de0c817](https://github.com/miaoxing/mxjs-box/commit/de0c817db28390f6e8fbb83cd3e7d62c9bd25202))
+
+
+### Code Refactoring
+
+* **box:** `Box`, `Image` 组件改为 `@fower/react` 提供，移除 `Flex`, `Text`, `Heading`, `Link`, `Button 组件 ([109d023](https://github.com/miaoxing/mxjs-box/commit/109d023bbab7363470a1cc1b929768607a663d7f))
+
+
+### Features
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([04b05b8](https://github.com/miaoxing/mxjs-box/commit/04b05b826fcc163b07310b94c3fcc8803332e301))
+
+
+### BREAKING CHANGES
+
+* **box:** `Box`, `Image` 组件改为 `@fower/react` 提供，移除 `Flex`, `Text`, `Heading`, `Link`, `Button 组件
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-box/compare/v0.2.2...v0.2.3) (2021-10-28)
 
 
