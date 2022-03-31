@@ -1,3 +1,10 @@
+## [0.3.2](https://github.com/miaoxing/mxjs-box/compare/v0.3.1...v0.3.2) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([dfed80c](https://github.com/miaoxing/mxjs-box/commit/dfed80ca0de6c967b8658ca551a779d47f3103dd))
+
 ## [0.3.1](https://github.com/miaoxing/mxjs-box/compare/v0.3.0...v0.3.1) (2022-02-05)
 
 
