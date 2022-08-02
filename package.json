@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/box",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "main": "index.js",
   "author": "twinh",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "@fower/react": "^1.70.0"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.1.2",
+    "@miaoxing/dev": "^8.1.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
