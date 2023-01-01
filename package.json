@@ -9,7 +9,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@fower/react": "^1.70.0"
+    "@fower/react": "~1.75.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.1.3",
