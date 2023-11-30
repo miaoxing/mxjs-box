@@ -1,3 +1,13 @@
+## [0.3.10](https://github.com/miaoxing/mxjs-box/compare/v0.3.9...v0.3.10) (2023-11-30)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.2.3` to `8.2.4`
+
 ## [0.3.9](https://github.com/miaoxing/mxjs-box/compare/v0.3.8...v0.3.9) (2023-09-02)
 
 
