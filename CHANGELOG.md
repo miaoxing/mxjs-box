@@ -1,3 +1,10 @@
+## [0.3.13](https://github.com/miaoxing/mxjs-box/compare/v0.3.12...v0.3.13) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([559b565](https://github.com/miaoxing/mxjs-box/commit/559b565999988fa6d81acf201b1f7c6b8b5fd164))
+
 ## [0.3.12](https://github.com/miaoxing/mxjs-box/compare/v0.3.11...v0.3.12) (2024-01-08)
 
 
